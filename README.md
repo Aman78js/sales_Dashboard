@@ -22,3 +22,6 @@ Sales transaction dataset (2020–2022) containing product categories, brands, s
 
 6. Example (Use Case):
 The dashboard helps answer business questions like “Which brand generated the highest sales (Intel 18.9%)?” or “Which state contributed the most to overall revenue?” within seconds.
+
+8. Page Preview:
+   link:-https://github.com/Aman78js/sales_Dashboard/blob/main/bi_screen.png
